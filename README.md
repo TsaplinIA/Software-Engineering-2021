@@ -36,6 +36,7 @@ Feel free to ask all your questions on the course's telegram channel.
     - https://github.com/SukhachevN/Software-Engineering-2021
     - HW1:
         * Status: Done (Nov 13)
+        * Notes:
             - Всё те же замечания, что я писал Фам Тхи Тхань Бинь: нужен коммит в `main` (раз он есть), префикс для `feature/` веток, настроить `.gitconfig`
             - В задачах заметил "Рефакторинг". Такие задачи плохо продаются бизнесу, т.к. не несут коммерческой ценности. На эту тему можно почитать Фаулера, он описывает принцип бойскаутов для решения таких ситуаций.
             - Не стоит миксовать русский и английский языки при комментировании коммитов.
@@ -43,7 +44,13 @@ Feel free to ask all your questions on the course's telegram channel.
 
 ## 80203
 
--
+- Tarasenko Nikita
+    - https://github.com/GetRhymes/ConverterXML
+    - HW1:
+        * Status: Done (Nov 13)
+        * Notes:
+            - Ветки `develop` и `master` друг к другу не ходят, для этого есть `release` и `hotfix`
+            - Видимо вначале были проблемы с `.gitconfig`
 -
 -
 
