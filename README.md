@@ -59,7 +59,15 @@ Feel free to ask all your questions on the course's telegram channel.
             - Ветки `develop` и `master` друг к другу не ходят, для этого есть `release` и `hotfix`
             - Видимо вначале были проблемы с `.gitconfig`
             - Служебные папки (`.idea`) тоже принято прятать за `.gitignore`
--
+- Никифоров Тимофей
+    - https://github.com/nikiforovta/Software-Engineering-lab1
+    - HW1:
+        * Status: Done (Nov 23)
+        * Notes:
+            - Я вижу `master` и `main`. Это просто взрыв мозга, я не понимаю какой подход к управлению ветками тут используется.
+            - В `git-flow` нет ветки, с именем `bugfix`.
+            - Для линковки коммитов с задачами, в комментарии к коммиту указывается номер `issue`, т.е. руками `issue` закрывать не нужно
+
 -
 
 ## 80201
