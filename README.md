@@ -56,6 +56,12 @@ Feel free to ask all your questions on the course's telegram channel.
             - Разобраться с `.gitconfig`, чтобы все коммиты шли от понятного пользователя.
             - `master` форкнут от... Уф... Граф веток взрывает мозг. Но радует наличие `release` ветки.
             - Для реализации функционала следует использовать ветки с префиксом `feature/`
+- Шерепа Никита
+    - https://github.com/beatHunteRcode/ZoneNewsDiscordBot
+        * Status: NOT Done (Nov 28)
+        * Notes:
+            - Не выполнены требования по депомозиции и управлению ветками
+
 
 ## 80203
 
