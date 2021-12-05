@@ -111,7 +111,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Произошла путаница в ветках, нужно это исправить (https://github.com/NevostruevaYana/CurrencyConverter/network)
             - Нужно разобраться с `.gitconfig`
-
+- Медведев Данил
+    - https://github.com/dVede/ConsoleWeatherApp
+    - HW1:
+        * Status: Done (Nov 29)
+        * Notes:
+            - под конец `develop` был замерджен в `master`
+            - Хорошей практикой считается разделять префикс `feature` от описание ветки символом `/`
 
 ## 80201
 
