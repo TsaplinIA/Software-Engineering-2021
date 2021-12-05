@@ -152,4 +152,9 @@ Feel free to ask all your questions on the course's telegram channel.
             - Изменения из `release` не вернулись в `develop`
             - Короткоживущие ветки следует отделять символом `/`
             - Разобраться с `.gitconfig` (см. коммит `48c9ae7`)
--
+- Ляшенко Валерия
+    - https://github.com/Evil-Enot/DegreeConverter/
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - нужно только изменения из `hotfix` вернуть обратно в `develop`, а то их можно потерять...
