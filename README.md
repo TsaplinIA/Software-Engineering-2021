@@ -127,5 +127,14 @@ Feel free to ask all your questions on the course's telegram channel.
         * Status: NOT Done (Nov 29)
         * Notes:
             - Нет управления ветками
--
+
+- Солянкин Илья
+    - https://github.com/Evil-Enot/DegreeConverter/
+    - HW1:
+        * Status: Done (Nov 29)
+        * Notes:
+            - Изменения из `release` не вернулись в `develop`
+            - Короткоживущие ветки следует отделять символом `/`
+            - Разобраться с `.gitconfig` (см. коммит `48c9ae7`)
+
 -
