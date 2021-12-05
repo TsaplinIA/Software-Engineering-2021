@@ -61,6 +61,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Status: NOT Done (Nov 28)
         * Notes:
             - Не выполнены требования по депомозиции и управлению ветками
+- Савельев Дмитрий
+    - https://github.com/KarrokBeorna/YoutubeGifBot
+        * Status: Done (Nov 29)
+        * Notes:
+            - Ветки `master` и `develop` перепутаны местами: `feature` векти мерджатся в `develop`.
+            - в качестве временной директории можно использовать `/tmp`, не надо закладываться на `Загрузки`
+            - 'API-key' нельзя хардкодить, его нужно передавать как переменную окружения
 
 
 ## 80203
