@@ -68,7 +68,14 @@ Feel free to ask all your questions on the course's telegram channel.
             - Ветки `master` и `develop` перепутаны местами: `feature` векти мерджатся в `develop`.
             - в качестве временной директории можно использовать `/tmp`, не надо закладываться на `Загрузки`
             - 'API-key' нельзя хардкодить, его нужно передавать как переменную окружения
-
+- Крынский Павел
+    - https://github.com/flomikoon/Currency-Conversion
+        * Status: Done (Nov 29)
+        * Notes:
+            - Ветка `feature` не является должноживущей. Она создаётся под каждую фичу, и закрывается после мерджа.
+            - Ветка `develop` не мерджится на прямую в `master`
+            - Разобраться с `.gitconfig`
+            - Служебные файлы (`.idea`) нужно закрывать от индексирования через `.gitignore`
 
 ## 80203
 
@@ -136,5 +143,4 @@ Feel free to ask all your questions on the course's telegram channel.
             - Изменения из `release` не вернулись в `develop`
             - Короткоживущие ветки следует отделять символом `/`
             - Разобраться с `.gitconfig` (см. коммит `48c9ae7`)
-
 -
