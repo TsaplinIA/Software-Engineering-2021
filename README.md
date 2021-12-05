@@ -125,6 +125,15 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - под конец `develop` был замерджен в `master`
             - Хорошей практикой считается разделять префикс `feature` от описание ветки символом `/`
+- Шрамков Максим
+    - https://github.com/k1unk/engineering_lab_1
+    - HW1:
+        * Status: Done (Nov 29)
+        * Notes:
+            - `feature`-ветки должны иметь префикс `feature/`
+            - каждая `feature`-ветка форкается от `develop`, и туда же возвращается
+            - в `main` изменения попадают через `felease/`
+            - скрыть `.idea` под `.gitignore`
 
 ## 80201
 
