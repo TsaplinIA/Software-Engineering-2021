@@ -165,3 +165,11 @@ Feel free to ask all your questions on the course's telegram channel.
         * Status: Done (Nov 30)
         * Notes:
             - нужно только изменения из `hotfix` вернуть обратно в `develop`, а то их можно потерять...
+- Рамис Сахибгареев
+    - https://github.com/rapturemain/currency-converter
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - В Trunk Based Development нам не нужна как таковая ветка `release`, там мы активно используем теги
+            - Если есть желание разделить ветки по назначению (`feature` vs `ops`), лучше импользовать префикс разделённый символом `\`
+
