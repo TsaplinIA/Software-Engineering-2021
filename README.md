@@ -134,6 +134,13 @@ Feel free to ask all your questions on the course's telegram channel.
             - каждая `feature`-ветка форкается от `develop`, и туда же возвращается
             - в `main` изменения попадают через `felease/`
             - скрыть `.idea` под `.gitignore`
+- Хвацкин Леонид
+    - https://github.com/TheGreenBeaver/Too-Doo
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - Вроде всё так красиво, но почему `master` и `develop` в конце указывают на один коммит?
+            - Предлагаю ещё в GitHub оформить как релиз, чтоб вообще законченный проект был (https://github.com/TheGreenBeaver/Too-Doo/releases)
 
 ## 80201
 
