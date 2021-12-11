@@ -32,7 +32,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Ветка `develop` не должна мерджиться в `master`
             - Управляеть версиями лучше через теги в `git`, либо в `release` ветке
-
+- Загороднов Дмитрий
+    - https://github.com/DmitryZagorodnov/btc_to_rub_converter
+    - HW1:
+        * Status: Done (Dec 1)
+        * Notes:
+            - Не должно быть прямых коммитов в `master` (`2c79d36`, `8c7f2a2`)
+            - Некоторые ветки (9, 7 ,12) форкнуты не от `master`
 
 ## 80202
 
