@@ -187,14 +187,18 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - `develop` не ходит в `master`, для этого есть `release`
             - нужно поместить вызов `gradle` в `Dockerfile`, чтобы это работало
-Курняков Пётр
+- Курняков Пётр
     - https://gitlab.com/pupptmstr/ass
         * Status: Done (Nov 30)
         * Notes:
             - Пароли к БД стоит передавать через переменные окружения
             - разобраться с `.gitconfig`
-
-
+- Танашкин В.А.
+    - https://github.com/NastyPill/JokesService
+        * Status: Done (Nov 30)
+        * Notes:
+            - в `main` ветку так ничего и не попало, нужно сделать `release` ветку для завершения проекта
+            - `feature` векти остались висеть в воздухе... Нужно сделать PR, и мерж коммит, чтоб история изменений оставалась последовательной.
 ## 80201
 
 - Матвеец Андрей
