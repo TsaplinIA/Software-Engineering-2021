@@ -241,4 +241,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Status: NOT Done (Nov 30)
         * Notes:
             - Не все требования выполнены
+- Ulyanov Andrey
+    - https://github.com/AndreyUlyanov/temperature-converter
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - В `develop` и в `master` прямые коммиты не попадают.
+            - Ветки `develop` и `master` не пересекаются, нужна ветка `release`.
+            - Навести порядок в `.gitconfig`
+            - Скрыть `.idea` за `.gitignore`
 
