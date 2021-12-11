@@ -81,6 +81,14 @@ Feel free to ask all your questions on the course's telegram channel.
             - Ветка `develop` не мерджится на прямую в `master`
             - Разобраться с `.gitconfig`
             - Служебные файлы (`.idea`) нужно закрывать от индексирования через `.gitignore`
+Рубан Станислав
+    - https://gitlab.com/pupptmstr/ass
+        * Status: Done (Nov 30)
+        * Notes:
+            - Все чувствительные данные (пароли к БД, токены доступа к API) не должны попадать в репозиторий. Для этого нужно использовать либо сервисы управления серкретами, либо сделать передачу через переменные окружения
+            - не все фичи доведены до мерджа с основной веткой
+            - не очень понимаю, что такое `.run`, но подозреваю что это должно быть за `.gitignore`
+            - разобраться с `.gitconfig`
 
 ## 80203
 
@@ -174,8 +182,12 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - `develop` не ходит в `master`, для этого есть `release`
             - нужно поместить вызов `gradle` в `Dockerfile`, чтобы это работало
-
-
+Курняков Пётр
+    - https://gitlab.com/pupptmstr/ass
+        * Status: Done (Nov 30)
+        * Notes:
+            - Пароли к БД стоит передавать через переменные окружения
+            - разобраться с `.gitconfig`
 
 
 ## 80201
