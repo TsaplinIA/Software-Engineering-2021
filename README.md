@@ -94,7 +94,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - Ветка `develop` не мерджится на прямую в `master`
             - Разобраться с `.gitconfig`
             - Служебные файлы (`.idea`) нужно закрывать от индексирования через `.gitignore`
-Рубан Станислав
+- Рубан Станислав
     - https://gitlab.com/pupptmstr/ass
         * Status: Done (Nov 30)
         * Notes:
