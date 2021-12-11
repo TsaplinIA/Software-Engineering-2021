@@ -20,6 +20,11 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Я не понимаю какая это `git`-модель, это нужно исправить
             - `Docker` это не обёртка над консольными утилитами, это изолированная среда для сетевых сервисов
+- Maksem Vasiliy
+    - HW1:
+        * Status: NOT Done (Nov 30)
+        * Notes:
+            - Я не понимаю какая это `git`-модель
 
 ## 80202
 
