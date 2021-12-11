@@ -104,7 +104,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - разобраться с `.gitconfig`
 - Смирнов Лев
     - https://github.com/Lion-Hunter/UsdToEurConverter
-    * Status: Done (Dec 30)
+    * Status: Done (Dec 1)
         * Notes:
             - ветка `dev` не должна мерджиться в `main`, для этого есть `release`
             - в `main` напрямую ничего коммитить нельзя, для этого есть `hotfix`
