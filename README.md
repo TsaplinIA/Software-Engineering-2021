@@ -66,7 +66,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - Линковать коммит достаточно с `issue`. Линковка на `PR` нужна скорее для ситуации, когда там была допущена какая-то ошибка, и новый коммит это фиксит
             - Если для БД креденшелы задаются через переменные окружения, то и для сервиса должно быть точно так же (`backend/backend/settings.py`)
             - Нельзя переписывать историю публичных веток, тем более форсом ломать упорядоченность коммитов (https://bitbucket.org/luna_koly/btc2btsconverter/commits/branch/main). Все коммиты должны образовывать односвязный список.
-- Tkachenko Daniil
+- Ткаченко Даниил
     - https://github.com/Daniil1380/calculator
         * Status: Done (Nov 27)
         * Notes:
@@ -94,7 +94,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - Ветка `develop` не мерджится на прямую в `master`
             - Разобраться с `.gitconfig`
             - Служебные файлы (`.idea`) нужно закрывать от индексирования через `.gitignore`
-Рубан Станислав
+- Рубан Станислав
     - https://gitlab.com/pupptmstr/ass
         * Status: Done (Nov 30)
         * Notes:
