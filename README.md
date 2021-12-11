@@ -141,6 +141,14 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Вроде всё так красиво, но почему `master` и `develop` в конце указывают на один коммит?
             - Предлагаю ещё в GitHub оформить как релиз, чтоб вообще законченный проект был (https://github.com/TheGreenBeaver/Too-Doo/releases)
+- Рубша Анастасия
+    - https://github.com/Valkiriya228/SoftwareEngLabFirst
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - Я так понимаю, это попытка Trunk Based Development. Мы каждую новую `feature` форкаем от главной ветки, и обратно её туда сливаем. Теоретически возможна ситуация, когда мы `feature`-ветку форкаем от `feature`-ветки же, но это крайне не типично для Trunk Based Development (собственно одно из его основных назначений - бороться с такими ситуациями).
+            - служебные директории (`.idea`) не должны попадать в кодобазу (`.gitignore`).
+
 
 ## 80201
 
