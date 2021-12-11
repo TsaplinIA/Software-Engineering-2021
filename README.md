@@ -167,6 +167,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Третья похожая по стилю работа... Ну ладно. Важно другое, важно не перемешивать ветки при Trunk Based Development.
             - Ну и `Docker` это скорее про демоны, чем про обёртку над интерактивными `cli` утилитами
+- Васильев Роман
+    - https://github.com/killawetz/Software-Engineering-lab1
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - `develop` не ходит в `master`, для этого есть `release`
+            - нужно поместить вызов `gradle` в `Dockerfile`, чтобы это работало
 
 
 
