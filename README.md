@@ -102,6 +102,14 @@ Feel free to ask all your questions on the course's telegram channel.
             - не все фичи доведены до мерджа с основной веткой
             - не очень понимаю, что такое `.run`, но подозреваю что это должно быть за `.gitignore`
             - разобраться с `.gitconfig`
+- Смирнов Лев
+    - https://github.com/Lion-Hunter/UsdToEurConverter
+    * Status: Done (Dec 30)
+        * Notes:
+            - ветка `dev` не должна мерджиться в `main`, для этого есть `release`
+            - в `main` напрямую ничего коммитить нельзя, для этого есть `hotfix`
+            - для `feature`-веток стоит использовать префикс `feature/`
+            - в комментарии к коммиту рекомендуется использовать номер `issue`, или отвечать на вопрос "зачем" делаются эти изменения
 
 ## 80203
 
