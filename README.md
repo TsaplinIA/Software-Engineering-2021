@@ -208,4 +208,16 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - В Trunk Based Development нам не нужна как таковая ветка `release`, там мы активно используем теги
             - Если есть желание разделить ветки по назначению (`feature` vs `ops`), лучше импользовать префикс разделённый символом `\`
+- Шелаев Никита
+    - https://github.com/ShelaevNikita/Currency_converter
+    - HW1:
+        * Status: Done (Nov 30)
+        * Notes:
+            - Нельзя делать прямые коммиты в `master`. Только `release` и `hotfix` попадают в `master`.
+            - Комментарий к коммиту должен объяснять для чего делаются эти изменения.
+            - Я не уверен, что `venv` нужен внутри `Docker`, т.к. `Docker` уже даёт более строгие гарантии изоляции
+    - HW2:
+        * Status: NOT Done (Nov 30)
+        * Notes:
+            - Не все требования выполнены
 
