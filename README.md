@@ -116,6 +116,12 @@ Feel free to ask all your questions on the course's telegram channel.
             - в `main` напрямую ничего коммитить нельзя, для этого есть `hotfix`
             - для `feature`-веток стоит использовать префикс `feature/`
             - в комментарии к коммиту рекомендуется использовать номер `issue`, или отвечать на вопрос "зачем" делаются эти изменения
+- Чернышев Ярослав
+    - https://github.com/Jar-Cher/SoftEngPrj
+    * Status: NOT Done (Dec 4)
+        * Notes:
+            - Путаница в ветках, куча прямых коммитов в `master` и `develop`, потом ещё и мердж `master` в `develop`.
+            - Коммиты и `issues` никак не слинкованы, `issues` вообще закрыты руками.
 
 ## 80203
 
