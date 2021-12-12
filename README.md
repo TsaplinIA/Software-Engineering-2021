@@ -136,6 +136,15 @@ Feel free to ask all your questions on the course's telegram channel.
         * Status: NOT Done (Dec 6)
         * Notes:
             - не выполнены требования, коммиты и `issues` на связаны
+- Smirnov Nikita
+    - https://github.com/3oDoR/TemperatureConverter
+    - HW1:
+        * Status: NOT Done (Dec 9)
+        * Notes:
+            - Нельзя делать прямые коммиты в `develop`, для этого есть `feature`
+            - Нельзя делать мерджить `develop` и `master`, для этого есть `release`
+            - ...а теперь представь, что у тебя релиз, и срочно нужно откатить какую-то фичу?
+
 
 
 ## 80203
