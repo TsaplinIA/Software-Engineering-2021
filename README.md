@@ -122,6 +122,13 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Путаница в ветках, куча прямых коммитов в `master` и `develop`, потом ещё и мердж `master` в `develop`.
             - Коммиты и `issues` никак не слинкованы, `issues` вообще закрыты руками.
+- Fedorov Sergey
+    - https://github.com/Joker707/SE_converter
+    - HW1:
+        * Status: NOT Done (Dec 6)
+        * Notes:
+            - не выполнены требования, коммиты и `issues` на связаны
+
 
 ## 80203
 
