@@ -352,3 +352,9 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Я бы передавал `API-key` через переменные окружения
             - Если у тебя релиз, то "SNAPSHOT" тащить уже не обязательно))
+- Пучкина Виктория
+    - https://github.com/Juniell/USD-EUR-converter
+    - HW1:
+        * Status: Done (Dec 11)
+        * Notes:
+            - В рамках взаимного уважения, я просил сдавать СВОИ работы.
