@@ -264,6 +264,13 @@ Feel free to ask all your questions on the course's telegram channel.
             - В коммитах куча не связанных вещей (`a451581`), результат плохой декомпозиции задачи.
             - Ветка `develop` возникла из ниоткуда, после трёх мерджей в `master`
             - Ветка `develop` не должна мерджиться в `master`
+- Трачук Илья
+    - https://github.com/kuchartI/QuizApp
+    - HW1:
+        * Status: Done (Dec 11)
+        * Notes:
+            - Ветки в реализацией функционала, оказались форкунты от `master` и слиты в `release`... Как это вообще пришло в голову?
+            - на данный момент `develop` и `master` указывают на один коммит! А новый `release` просто висит в воздухе.
 
 ## 80201
 
