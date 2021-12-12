@@ -277,6 +277,7 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Всё ОК, только `develop` указывает на коммит в `release/...` ветке. Чтоб такого не было, `relese` должен мерджиться в `master`, а потом обратно в `develop`.
             - Хорошей практикой для управления версиями было бы положить отдельный файл с версией в репо (либо читать `git tag`), и читать оттуда версию при сборке `JAR`-ника.
+
 ## 80201
 
 - Матвеец Андрей
@@ -344,3 +345,10 @@ Feel free to ask all your questions on the course's telegram channel.
         * Notes:
             - Разобраться с `gitconfig` (https://github.com/ADsty/temperature_convertor/commits/main)
             - Вижу попытку разобраться с `release`, но получился какой-то треш: мы форкается от `develop`, и мерджимся в `master` (при необходимости, обратно в `develop` тоже)
+- Иванов Игорь
+    - https://github.com/teacons/btc-eth-converter
+    - HW1:
+        * Status: Done (Dec 11)
+        * Notes:
+            - Я бы передавал `API-key` через переменные окружения
+            - Если у тебя релиз, то "SNAPSHOT" тащить уже не обязательно))
