@@ -67,6 +67,7 @@ Feel free to ask all your questions on the course's telegram channel.
 
 - Lunyak.NA
     - https://bitbucket.org/luna_koly/btc2btsconverter/src/main/
+    - HW1:
         * Status: Done (Nov 13)
         * Notes:
             - Линковать коммит достаточно с `issue`. Линковка на `PR` нужна скорее для ситуации, когда там была допущена какая-то ошибка, и новый коммит это фиксит
@@ -74,6 +75,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - Нельзя переписывать историю публичных веток, тем более форсом ломать упорядоченность коммитов (https://bitbucket.org/luna_koly/btc2btsconverter/commits/branch/main). Все коммиты должны образовывать односвязный список.
 - Ткаченко Даниил
     - https://github.com/Daniil1380/calculator
+    - HW1:
         * Status: Done (Nov 27)
         * Notes:
             - `.mnv` в `.gitignore`.
@@ -82,11 +84,13 @@ Feel free to ask all your questions on the course's telegram channel.
             - Для реализации функционала следует использовать ветки с префиксом `feature/`
 - Шерепа Никита
     - https://github.com/beatHunteRcode/ZoneNewsDiscordBot
+    - HW1:
         * Status: NOT Done (Nov 28)
         * Notes:
             - Не выполнены требования по депомозиции и управлению ветками
 - Савельев Дмитрий
     - https://github.com/KarrokBeorna/YoutubeGifBot
+    - HW1:
         * Status: Done (Nov 29)
         * Notes:
             - Ветки `master` и `develop` перепутаны местами: `feature` векти мерджатся в `develop`.
@@ -94,6 +98,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - 'API-key' нельзя хардкодить, его нужно передавать как переменную окружения
 - Крынский Павел
     - https://github.com/flomikoon/Currency-Conversion
+    - HW1:
         * Status: Done (Nov 29)
         * Notes:
             - Ветка `feature` не является должноживущей. Она создаётся под каждую фичу, и закрывается после мерджа.
@@ -102,6 +107,7 @@ Feel free to ask all your questions on the course's telegram channel.
             - Служебные файлы (`.idea`) нужно закрывать от индексирования через `.gitignore`
 - Рубан Станислав
     - https://gitlab.com/pupptmstr/ass
+    - HW1:
         * Status: Done (Nov 30)
         * Notes:
             - Все чувствительные данные (пароли к БД, токены доступа к API) не должны попадать в репозиторий. Для этого нужно использовать либо сервисы управления серкретами, либо сделать передачу через переменные окружения
@@ -110,7 +116,8 @@ Feel free to ask all your questions on the course's telegram channel.
             - разобраться с `.gitconfig`
 - Смирнов Лев
     - https://github.com/Lion-Hunter/UsdToEurConverter
-    * Status: Done (Dec 1)
+    - HW1:
+        * Status: Done (Dec 1)
         * Notes:
             - ветка `dev` не должна мерджиться в `main`, для этого есть `release`
             - в `main` напрямую ничего коммитить нельзя, для этого есть `hotfix`
@@ -118,7 +125,8 @@ Feel free to ask all your questions on the course's telegram channel.
             - в комментарии к коммиту рекомендуется использовать номер `issue`, или отвечать на вопрос "зачем" делаются эти изменения
 - Чернышев Ярослав
     - https://github.com/Jar-Cher/SoftEngPrj
-    * Status: NOT Done (Dec 4)
+    - HW1:
+        * Status: NOT Done (Dec 4)
         * Notes:
             - Путаница в ветках, куча прямых коммитов в `master` и `develop`, потом ещё и мердж `master` в `develop`.
             - Коммиты и `issues` никак не слинкованы, `issues` вообще закрыты руками.
@@ -224,18 +232,21 @@ Feel free to ask all your questions on the course's telegram channel.
             - нужно поместить вызов `gradle` в `Dockerfile`, чтобы это работало
 - Курняков Пётр
     - https://gitlab.com/pupptmstr/ass
+    - HW1:
         * Status: Done (Nov 30)
         * Notes:
             - Пароли к БД стоит передавать через переменные окружения
             - разобраться с `.gitconfig`
 - Танашкин В.А.
     - https://github.com/NastyPill/JokesService
+    - HW1:
         * Status: Done (Nov 30)
         * Notes:
             - в `main` ветку так ничего и не попало, нужно сделать `release` ветку для завершения проекта
             - `feature` векти остались висеть в воздухе... Нужно сделать PR, и мерж коммит, чтоб история изменений оставалась последовательной.
 - Викторов Илья
     - https://github.com/Victorov-I-A/CurrencyConverter
+    - HW1:
         * Status: Done (Dec 1)
         * Notes:
             - Бинарный артефакт в репозитории -- это провал для разработчика!
