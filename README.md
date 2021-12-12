@@ -298,3 +298,10 @@ Feel free to ask all your questions on the course's telegram channel.
             - Прямой коммит в `develop` с бампов мерсии (`12a1b96`), для этого лучше использовать `release`
             - Ещё один прямой коммит, для которого нужно использовать `feature` (`1ef1090`). Рефакторинг не несёт прямой ценности для бизнеса (читать Фаулера).
             - ветка `hotfix` не возвращена в `develop` (`d1116cd`).
+- Петров Виталий
+    - https://github.com/ADsty/temperature_convertor
+    - HW1:
+        * Status: Done (Dec 6)
+        * Notes:
+            - Разобраться с `gitconfig` (https://github.com/ADsty/temperature_convertor/commits/main)
+            - Вижу попытку разобраться с `release`, но получился какой-то треш: мы форкается от `develop`, и мерджимся в `master` (при необходимости, обратно в `develop` тоже)
