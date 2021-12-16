@@ -183,10 +183,9 @@ Feel free to ask all your questions on the course's telegram channel.
 - Невоструева Яна
     - https://github.com/NevostruevaYana/CurrencyConverter
     - HW1:
-        * Status: NOT Done (Nov 28)
+        * Status: Done (Dec 12)
         * Notes:
-            - Произошла путаница в ветках, нужно это исправить (https://github.com/NevostruevaYana/CurrencyConverter/network)
-            - Нужно разобраться с `.gitconfig`
+            - `develop` и `master` не могут мерджиться друг в друга
 - Медведев Данил
     - https://github.com/dVede/ConsoleWeatherApp
     - HW1:
