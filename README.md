@@ -85,7 +85,7 @@ Feel free to ask all your questions on the course's telegram channel.
 - Шерепа Никита
     - https://github.com/beatHunteRcode/ZoneNewsDiscordBot
     - HW1:
-        * Status: Done (Nov 28)
+        * Status: Done (Dec 12)
         * Notes:
             - Теперь осталось выработать привычку делать декомпозицию задачи перед работой
             - прямые коммиты в `develop` ветку не делаются, для это этого есть `feature`-ветки
