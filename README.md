@@ -145,8 +145,14 @@ Feel free to ask all your questions on the course's telegram channel.
             - Нельзя делать прямые коммиты в `develop`, для этого есть `feature`
             - Нельзя делать мерджить `develop` и `master`, для этого есть `release`
             - ...а теперь представь, что у тебя релиз, и срочно нужно откатить какую-то фичу?
-
-
+- Кейта Абубакар Сидики
+    - https://github.com/3oDoR/TemperatureConverter
+    - HW1:
+        * Status: Done (Dec 13)
+        * Notes:
+            - Разобраться с `.gitconfig`
+            - Нельзя делать прямые коммиты в `develop`
+            - Ветка `develop` не должна мерджиться в `master`
 
 ## 80203
 
