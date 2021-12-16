@@ -85,9 +85,10 @@ Feel free to ask all your questions on the course's telegram channel.
 - Шерепа Никита
     - https://github.com/beatHunteRcode/ZoneNewsDiscordBot
     - HW1:
-        * Status: NOT Done (Nov 28)
+        * Status: Done (Nov 28)
         * Notes:
-            - Не выполнены требования по депомозиции и управлению ветками
+            - Теперь осталось выработать привычку делать декомпозицию задачи перед работой
+            - прямые коммиты в `develop` ветку не делаются, для это этого есть `feature`-ветки
 - Савельев Дмитрий
     - https://github.com/KarrokBeorna/YoutubeGifBot
     - HW1:
